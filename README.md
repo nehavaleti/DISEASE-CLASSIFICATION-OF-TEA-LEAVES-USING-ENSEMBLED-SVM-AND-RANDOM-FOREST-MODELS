@@ -47,11 +47,11 @@ This project, developed as part of VIT's Capstone Project, focuses on classifyin
    ```
 3. Run the training script:
    ```bash
-   python tester.py
+   python tester3.py
    ```
 4. Test the model with sample images:
    ```bash
-   python test_model.py --image_path sample.jpg
+   python tester3.py --image_path sample.jpg
    ```
 
 ## Dataset
