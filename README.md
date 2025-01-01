@@ -45,7 +45,6 @@ This project, developed as part of VIT's Capstone Project, focuses on classifyin
    ```bash
    git clone https://github.com/your-repository/tea-leaves-classification.git
    ```
-   ```
 3. Run the training script:
    ```bash
    python tester.py
@@ -57,7 +56,7 @@ This project, developed as part of VIT's Capstone Project, focuses on classifyin
 
 ## Dataset
 - The dataset includes labeled images of tea leaves.
-- Due to licensing constraints, the dataset is not included in this repository. Please refer to the project documentation for instructions on obtaining it.
+- Since the dataset is a huge file, The Link to it is provided "
 
 ## Future Work
 - Integration with IoT devices for real-time field monitoring.
