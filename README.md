@@ -45,13 +45,10 @@ This project, developed as part of VIT's Capstone Project, focuses on classifyin
    ```bash
    git clone https://github.com/your-repository/tea-leaves-classification.git
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 3. Run the training script:
    ```bash
-   python train_model.py
+   python tester.py
    ```
 4. Test the model with sample images:
    ```bash
@@ -69,9 +66,6 @@ This project, developed as part of VIT's Capstone Project, focuses on classifyin
 
 ## Contributions
 This project was developed by Neha Valeti and team as part of VIT's Capstone Project.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 - Thanks to Vellore Institute of Technology (VIT) for the opportunity to work on this project.
