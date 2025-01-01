@@ -56,7 +56,7 @@ This project, developed as part of VIT's Capstone Project, focuses on classifyin
 
 ## Dataset
 - The dataset includes labeled images of tea leaves.
-- Since the dataset is a huge file, The Link to it is provided "
+- Since the dataset is a huge file, The Link to it is provided "https://drive.google.com/drive/folders/1AQJ9cWz3lOUxaslunDQ8j21xemTX7k3P?usp=sharing"
 
 ## Future Work
 - Integration with IoT devices for real-time field monitoring.
